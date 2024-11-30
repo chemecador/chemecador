@@ -7,17 +7,21 @@
 
 ## 🚀 Featured Projects
 
+### 📋 [Secretaria](https://github.com/chemecador/Secretaria)  
+A **Basic TODO app** with **Clean Architecture**, **MVVM**, **Dependency Injection**, **Retrofit**, and **Firebase**. Sync your notes online and share them with your friends! Features a clean and intuitive UI designed for productivity.  
+**Status:** ✅ In production ([Available on Play Store](https://play.google.com/store/apps/details?id=com.chemecador.secretaria&hl=es_419))  
+**Technologies:** Kotlin, Android Native, XML, Firebase (Realtime Database, Authentication, Crashlytics), Retrofit, Dependency Injection.
+
 ### 🃏 [Guiñote Online (Android client)](https://github.com/chemecador/GuinoteOnline)  
 A real-time **online card game app** based on **Guiñote**, a classic Spanish card game. The app allows seamless gameplay with friends or random players, prioritizing **performance** and an engaging **user experience**.  
+**Status:** 🚧 In development  
 **Technologies:** Kotlin, Jetpack Compose, REST APIs, WebSocket, Dependency Injection.
 
 ### 🌐 [Guiñote Online (Server)](https://github.com/chemecador/GuinoteOnline-Server)  
 The server-side engine for GuiñoteOnline, implemented to manage real-time gaming, user authentication, and complex game logic.  
+**Status:** 🚧 In development  
 **Technologies:** Node.js, PostgreSQL, WebSocket, REST APIs, Authentication.
 
-### 📋 [Secretaria](https://github.com/chemecador/Secretaria)  
-A **Basic TODO app** with **Clean Architecture**, **MVVM**, **Dependency Injection**, **Retrofit**, and **Firebase**. Sync your notes online and share them with your friends! Features a clean and intuitive UI designed for productivity.  
-**Technologies:** Kotlin, Android Native, XML, Firebase (Realtime Database, Authentication, Crashlytics), Retrofit, Dependency Injection.
 
 > I have only a few personal projects because I developed them in my spare time while balancing a full-time job. I have focused on respecting **best practices** and writing **clean code** by applying **SOLID principles**. Additionally, I aimed to create projects that not only helped me grow as a developer but also solved real needs and were useful for me.
 
