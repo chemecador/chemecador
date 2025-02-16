@@ -3,7 +3,27 @@
 ## 🌟 About Me
 
 - 📱 **Experienced Android Developer** with a solid background in **native Android development using Kotlin**.
-- 🌱 Currently expanding my skills in **Kotlin Multiplatform** and **Compose Multiplatform** to master cross-platform solutions.
+- 🍏 Now diving into **iOS development** with **Xcode and Swift** and exploring **React Native** to further broaden my expertise.
+
+
+## 🛠️ Skills & Technologies
+
+### Mobile Development
+- **Specialty:** Proficient in **Kotlin** and **Java** for Android development.
+- **Frameworks:** Android Native, Kotlin Multiplatform, Compose Multiplatform
+- **UI Tools:** XML, Jetpack Compose
+- **New Frontiers:** Learning **iOS development** with **Xcode/Swift** and exploring **React Native**.
+
+### Backend Development
+- **Specialty:** Skilled in **Node.js**, **PHP**, and database management.
+- **Languages:** Node.js, PHP
+- **Databases:** SQL Server, SQLite, MySQL, PostgreSQL
+- **Tools:** Dependency Injection, REST API Integration, AI Tools
+- **New Frontiers:** Learning **Python**.
+
+### Version Control
+- **Tools:** Git, GitHub, Subversion, TortoiseSVN, Bitbucket
+
 
 ## 🚀 Featured Projects
 
@@ -11,6 +31,16 @@
 A **Basic TODO app** with **Clean Architecture**, **MVVM**, **Dependency Injection**, **Retrofit**, and **Firebase**. Sync your notes online and share them with your friends! Features a clean and intuitive UI designed for productivity.  
 **Status:** ✅ In production ([Available on Play Store](https://play.google.com/store/apps/details?id=com.chemecador.secretaria&hl=es_419))  
 **Technologies:** Kotlin, Android Native, XML, Firebase (Realtime Database, Authentication, Crashlytics), Retrofit, Dependency Injection.
+
+### ✍️ [SignPDF](https://github.com/chemecador/SignPDF)  
+A mobile application designed to simplify the process of digitally signing PDF documents. Eliminate printing, signing, scanning, and emailing by signing directly on your Android device, saving time and resources.  
+**Status:** ✅ In production ([Available on Play Store](https://play.google.com/store/apps/details?id=com.chemecador.sign&hl=es_419))  
+**Technologies:** Kotlin, iText, MVVM Architecture, Dagger Hilt.
+
+### ⌛️ [Shiftify - Work Shift Manager](https://github.com/chemecador/Shiftify)  
+Shiftify is a **React Native application** designed to help employees track their work shifts efficiently. With an intuitive interface, users can log their **start time, breaks, and end time**, ensuring accurate records of working hours across both iOS and Android.  
+**Status:** ✅ In production  
+**Technologies:** React Native, Expo, Supabase.
 
 ### 🃏 [Guiñote Online (Android client)](https://github.com/chemecador/GuinoteOnline)  
 A real-time **online card game app** based on **Guiñote**, a classic Spanish card game. The app allows seamless gameplay with friends or random players, prioritizing **performance** and an engaging **user experience**.  
@@ -22,53 +52,26 @@ The server-side engine for GuiñoteOnline, implemented to manage real-time gamin
 **Status:** 🚧 In development  
 **Technologies:** Node.js, PostgreSQL, WebSocket, REST APIs, Authentication.
 
-
 > I have only a few personal projects because I developed them in my spare time while balancing a full-time job. I have focused on respecting **best practices** and writing **clean code** by applying **SOLID principles**. Additionally, I aimed to create projects that not only helped me grow as a developer but also solved real needs and were useful for me.
-
-## 🛠️ Skills & Technologies
-
-### Mobile Development
-- **Specialty:** Proficient in **Kotlin** and **Java** for Android development.
-- **Frameworks:** Android Native, Kotlin Multiplatform, Compose Multiplatform
-- **UI Tools:** XML, Jetpack Compose
-
-### Backend Development
-- **Specialty:** Skilled in **Node.js**, **PHP**, and database management.
-- **Languages:** Node.js, PHP
-- **Databases:** SQL Server, SQLite, MySQL, PostgreSQL
-- **Tools:** Dependency Injection, REST API Integration, AI Tools
-
-### Version Control
-- **Tools:** Git, GitHub, Subversion, TortoiseSVN, Bitbucket
-
-
-### Other Technologies
-  While my expertise lies in the technlogies shown above, I've had to work with these technologies in **real-world projects** too, and have a solid understanding of their use:
-
-- **Frontend:** HTML, CSS, JavaScript 
-- **Backend:** Java, C++, .NET  
 
 
 ## 🏢 Professional Experience
 
-- **Android Development:**  
-  Created Android applications using **Kotlin**, adhering to **Clean Architecture** (MVVM), implementing **dependency injection**, and integrating **REST APIs**. Proficient in both **XML layouts** and **Jetpack Compose** for modern UI development.  
-  Conducted **unit testing** and **integration testing** to ensure robust and reliable code.
+- **Full Stack Mobile Developer:**  
+  Developed native Android mobility applications using Kotlin, covering both client and server sides. Implemented Clean Architecture (MVVM), dependency injection, testing, and integration with REST APIs. Connected backend services with SQL Server databases and corresponding ERP systems.
 
-- **Database Management:**  
-  Skilled in **SQL Server**, **SQLite**, **MySQL**, and **PostgreSQL** for scalable and efficient database solutions.
+- **Full Stack Web Developer:**  
+  Worked with various languages and frameworks to develop web applications.
 
-- **ERP Consultancy:**  
-  Expertise in **ERP implementation**, working with platforms such as **Sage**, **Solmicro** and **Odoo**, focusing on sales workflows (quotes, orders, invoices) and payment management. Provided customization, implementation, and user training to meet client needs.
+- **ERP Consultant:**  
+  Implemented, customized, and supported ERP systems.
 
-- **Web Development:**  
-  Developed and maintained **web applications** using **JavaScript**, **PHP**, and **Node.js**.
+- **Customer Support:**  
+  Addressed inquiries and resolved issues.
 
-- **Legacy Systems Maintenance:**  
-  Enhanced and maintained Java-based systems for improved performance and reliability.
+- **Project Analysis and Management:**  
+  Evaluated requirements, planned projects, and managed budgeting.
 
-- **Client Support and Analysis:**  
-  Delivered exceptional client support, solving technical challenges and analyzing requirements for tailored solutions.
 
 ## 🌍 Languages
 
@@ -76,11 +79,10 @@ The server-side engine for GuiñoteOnline, implemented to manage real-time gamin
 - **English:** Fluent  
 - **French:** Basic
 
+
 ## 📬 Contact
 
 Feel free to reach me!
 
 - **Email:** chemecador@gmail.com  
 - **Twitter:** [@chemecador](https://twitter.com/chemecador)
-
-
